@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Icon.svg</file>
+        <file>icons/LightDisk.svg</file>
+        <file>icons/DarkDisk.svg</file>
+        <file alias="fonts/FredokaOne-Regular.ttf">fonts/Fredoka_One/FredokaOne-Regular.ttf</file>
+        <file>ui/Reversi.qml</file>
+        <file>ui/Cell.qml</file>
+        <file>ui/Board.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+*.user
+*[Bb]uild*/
+*[Oo]ut*/
+.idea/
+.vs/
+.vscode/
